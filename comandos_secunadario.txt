@@ -1,0 +1,4 @@
+Esse arquivo contém informações adcionais do comando git.
+
+primeiro comando
+segundo comando
