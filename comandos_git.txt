@@ -1,8 +1,8 @@
-git init .        -> cria um repo git na pasta actual
-git status        -> mostra o status do trabalho(de cada arquivo)
-git add nome_arquivo -> adiciona arquivo para ser commitado
-git commit -m "msg" -> faz commitndo que estava para ser commitado
-git log -> mostra todos históricos de commit
+git init .                   -> cria um repo git na pasta actual
+git status                  -> mostra o status do trabalho(de cada arquivo)
+git add nome_arquivo       -> adiciona arquivo para ser commitado
+git commit -m "msg"          -> faz commitndo que estava para ser commitado
+git log            -> mostra todos históricos de commit
 
 
 Fluxo de trablho
@@ -13,6 +13,6 @@ Fluxo de trablho
 4. git status
 5.git add <add nome>
 6. git status
-7. git commit -m "mensagem"
+7. git commit -m "mensagem estranha "
 8. git status
 9. volta para o passo 3.
